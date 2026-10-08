@@ -1,5 +1,5 @@
 # womp (waste of money protocol) specification
-The womp specification is a standardised specification for custom wasteof.money clients to implement new features.
+The womp specification is a standardised specification for custom wasteof.money clients to implement new features. Currently very primitive with not many features.
 
 ## versioning
 womp uses semantic versioning.
