@@ -25,3 +25,5 @@ GET https://og.joshattic.us/fetch?url=https://github.com&t=3759146558600182
 ```
 
 You can also optionally choose to allow users to enable/disable open graph link previews when posting. This setting should be attached to the post's womp metadata (see above). Even if your client does not allow users to toggle this on and off, it should still respect this setting in posts if present to maintain womp-compatibility.
+
+Also see [Metadata](metadata.md) for information on how to customise link previews with womp metadata.
