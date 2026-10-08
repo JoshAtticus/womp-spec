@@ -12,3 +12,4 @@ Clients that do not keep their womp implementations relatively up to date may be
 |  | **womp version** | **link**                               |
 |------------|------------------|----------------------------------------|
 | wo.mbat    | 1.0.0            | https://github.com/JoshAtticus/wo.mbat |
+| wasteof.index | 1.0.0 | https://wasteofindex.joshattic.us
