@@ -28,6 +28,9 @@ If an optional part of the schema is not included, your client should assume the
 
 Please ensure your client **validates** all metadata and requirements, such as character limits.
 
+## Parsing Metadata
+When parsing metadata, it's important to note that the wasteof api HTML escapes the content. For example, quotation marks (`""`) may be turned into `&quot;&quot;`
+
 ## Editing Posts
 When editing posts, you should avoid modifying the existing metadata attached to the post, unless:
 
